@@ -1,6 +1,6 @@
 # Digit Recognition Using CNN
 
-## 👤 Developed by: Shradhansh Tiwari
+
 
 ---
 
@@ -41,3 +41,4 @@ Digit_Recognition_CNN/
 Install required libraries:
 ```bash
 pip install tensorflow numpy matplotlib opencv-python pillow tk
+
